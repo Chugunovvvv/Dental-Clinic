@@ -1,0 +1,22 @@
+@import "../fonts/GeneralSans/general-sans.scss";
+@import "../fonts/Satoshi/satoshi.scss";
+@import "./variables.scss";
+@import "./nullstyle.scss";
+
+body {
+  font-family: var(--font-family), sans-serif;
+  font-weight: 400;
+  background-color: #fff;
+}
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+}
+.container {
+  @media (min-width: 1600px) {
+    max-width: 1620px;
+  }
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}

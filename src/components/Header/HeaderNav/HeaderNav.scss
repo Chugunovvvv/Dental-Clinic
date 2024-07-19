@@ -1,0 +1,10 @@
+.header {
+  &__nav {
+  }
+
+  &__list {
+    display: flex;
+    align-items: center;
+    gap: 38px;
+  }
+}

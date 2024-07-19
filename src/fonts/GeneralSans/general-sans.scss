@@ -1,0 +1,29 @@
+
+@font-face {
+  font-family: 'GeneralSans-Regular';
+  src: url('../fonts/GeneralSans/GeneralSans-Regular.woff2') format('woff2'),
+       url('../fonts/GeneralSans/GeneralSans-Regular.woff') format('woff'),
+       url('../fonts/GeneralSans/GeneralSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GeneralSans-Medium';
+  src: url('../fonts/GeneralSans/GeneralSans-Medium.woff2') format('woff2'),
+       url('../fonts/GeneralSans/GeneralSans-Medium.woff') format('woff'),
+       url('../fonts/GeneralSans/GeneralSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GeneralSans-Semibold';
+  src: url('../fonts/GeneralSans/GeneralSans-Semibold.woff2') format('woff2'),
+       url('../fonts/GeneralSans/GeneralSans-Semibold.woff') format('woff'),
+       url('../fonts/GeneralSans/GeneralSans-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
